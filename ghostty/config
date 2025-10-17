@@ -1,0 +1,14 @@
+font-family = "JetBrainsMono Nerd Font"
+font-size = 14
+background-opacity = 1.0
+background-blur-radius = 84
+macos-titlebar-proxy-icon = hidden
+macos-titlebar-style = hidden
+title = ""
+cursor-opacity = 0.65 
+adjust-cursor-thickness = 2
+window-decoration = false
+gtk-titlebar = false
+background-image = ~/bg/dominik-mayer-24.jpg
+background-image-fit = cover
+background-image-opacity = 0.06
