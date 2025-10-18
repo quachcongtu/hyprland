@@ -73,7 +73,7 @@ $ bind = SUPER, down, exec, ~/scripts/brightness-control.sh down
 
 - `hyprctl reload`
 
-- Kiểm tra xem hiện tại độ sáng là bao nhiêu bằng lệnh: `ddcutil detect`
+- Kiểm tra xem hiện tại độ sáng là bao nhiêu bằng lệnh: `ddcutil getvcp 10 --bus=2`
 
 
 
